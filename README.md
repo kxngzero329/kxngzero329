@@ -13,6 +13,6 @@ This drive to evolve as a software developer makes me a dependable and adaptable
 
 * [3d Rotational pics animation](https://github.com/kxngzero329/project_1_css_3d_rotation_effect.git)
 
-* [Book Connect Web App](https://github.com/kxngzero329/MOGSMI059_SOZ2301_IWA19_SHUHAIRSMITH_CHALLENGE1-.git)
+* [Sky Seeker Web App](https://github.com/kxngzero329/SKY_SEEKER_-FUNCTIONAL_WEATHER_APP-.git)
 
 * [3d Book Flip Animation](https://github.com/kxngzero329/project_2_3d_book_flip_animation.git)
