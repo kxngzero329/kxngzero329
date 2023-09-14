@@ -8,7 +8,7 @@ My dedication and work ethic, evident throughout my academic journey, reflect my
 I am well-versed in independent learning and committed to continually expanding my skillset by mastering new programming languages. 
 This drive to evolve as a software developer makes me a dependable and adaptable asset in any professional setting.
 
-## Link to my portfolio: [CV](shuhair-smith-website-resume-c-44b294.netlify.app)
+## Link to my portfolio: [CV](https://shuhair-smith-website-resume-c-44b294.netlify.app/)
 
 ## Here are the links to some of my projects.
 * [Podcast App](https://github.com/kxngzero329/MOGSMI059_SOZ2301_GROUP2_SHUHAIRSMITH_DWA18_FINAL_CAPSTONE_PODHut_APP.git)
