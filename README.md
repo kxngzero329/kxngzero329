@@ -8,7 +8,7 @@ My dedication and work ethic, evident throughout my academic journey, reflect my
 I am well-versed in independent learning and committed to continually expanding my skillset by mastering new programming languages. 
 This drive to evolve as a software developer makes me a dependable and adaptable asset in any professional setting.
 
-## Link to my website portfolio: [MY PORTFOLIO](https://mss-portfolio-b57ac0.netlify.app/)
+## Link to my website portfolio: [MY PORTFOLIO](https://smith-website-portfolio.netlify.app/)
 
 ## Here are the links to some of my projects.
 * [Podcast App](https://pod-hut-kxngzero.netlify.app/)
