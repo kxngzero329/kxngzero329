@@ -1,4 +1,4 @@
-# Shuhair Smith
+# Mogammat Shuhair Smith
 
 I am a 20-year-old aspiring software developer seeking an entry-level position that provides me with opportunities for on-the-job learning and skill refinement.
 My educational background includes the successful completion of a comprehensive software development course at CodeSpace Academy. Proficient in CSS, HTML, JavaScript, 
