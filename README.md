@@ -1,20 +1,90 @@
-# Mogammat Zuhayr Smith
+<!-- PREMIUM BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mogammat%20Zuhayr%20Smith&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-I am a 22-year-old aspiring software developer seeking an entry-level position that provides me with opportunities for on-the-job learning and skill refinement.
-My educational background includes the successful completion of a comprehensive software development course at CodeSpace Academy. Proficient in CSS, HTML, JavaScript, 
-and the React framework (utilizing Vite for enhanced support), I bring a strong foundation in front-end development to the table.
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Vue+Developer;Future+Full+Stack+Engineer;Passionate+About+Clean+UI+%26+UX;Always+Learning+New+Tech" />
+</p>
 
-My dedication and work ethic, evident throughout my academic journey, reflect my eagerness to tackle challenges head-on. 
-I am well-versed in independent learning and committed to continually expanding my skillset by mastering new programming languages. 
-This drive to evolve as a software developer makes me a dependable and adaptable asset in any professional setting.
+---
 
-## Link to my website portfolio: [MY PORTFOLIO](https://mogamatsmith.netlify.app/)
+## 🧑‍💻 About Me
 
-## Here are the links to some of my projects.
-* [Podcast App](https://pod-hut-kxngzero.netlify.app/)
-  
-* [Sky Seeker Web App](https://sky-seeker-a2bda1.netlify.app/)
-  
-* [3d Rotational pics animation](https://github.com/kxngzero329/project_1_css_3d_rotation_effect.git)
+🎯 I am a **22-year-old aspiring Software Developer** passionate about building clean, responsive, and user-friendly web applications.
 
-* [3d Book Flip Animation](https://github.com/kxngzero329/project_2_3d_book_flip_animation.git)
+🎓 I completed a **Comprehensive Software Development Program at CodeSpace Academy**, where I developed strong front-end engineering skills.
+
+⚡ I specialize in building modern web apps using **React + Vite**, with a strong focus on performance and UI/UX.
+
+📚 I am committed to continuous learning, constantly improving my development skills and exploring new technologies.
+
+🚀 My goal is to grow into a **Full-Stack Developer** and contribute to impactful, scalable digital solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+
+### 🧰 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
+
+---
+
+## 📌 Featured Projects
+
+### 🎧 Podcast App
+🔗 https://podhut.netlify.app/  
+A modern podcast streaming interface built with React + Supabase featuring clean UI and smooth navigation.
+
+---
+
+### 🌌 SkyLens Weather App
+🔗 https://skylensms.netlify.app/  
+Interactive astronomy-based web app focused on exploration and engaging UI experience.
+
+---
+
+### 📘 Astrielle E-Commerce
+🔗 https://astrielle.netlify.app  
+An e-commerce clothing store for a fashion brand to showcase and sell their products
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ Type Script
+- 🌐 Advanced Backend Development
+- 🗄️ Databases & API Integration
+- ☁️ Cloud & Deployment Practices
+
+---
+
+## 🤝 Let's Connect
+
+🌐 Portfolio: https://mogamatsm.netlify.app/  
+💼 Open to Junior Full-Stack Developer Opportunities  
+📧 Reach out for collaboration or opportunities!
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning creative ideas into real, interactive web experiences and constantly pushing myself to learn new technologies.
+
+---
+
+<p align="center">
+  ⭐️ Thanks for visiting my profile!
+</p>
+
