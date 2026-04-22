@@ -3,15 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mogammat%20Zuhayr%20Smith&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Junior+Full+Stack+Developer;React+%7C+Vue+%7C+PHP+Developer;Building+Clean+Modern+Web+Experiences;Always+Learning+Always+Growing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Typescript+%7C+Next.js+Developer;Building+Clean+Modern+Web+Experiences;Always+Learning+Always+Growing" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
 <div align="center">
+
+# About Me
 
 💻 Passionate **22-Year-Old Software Developer**  
 🎓 CodeSpace Academy Graduate  
@@ -23,17 +23,17 @@
 
 ---
 
-# 🧰 Tech Stack
-
 <div align="center">
 
-## 🎨 Frontend
+# Tech Stack
+
+## Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite" />
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 <div align="center">
 
@@ -43,13 +43,13 @@
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 
 ---
 
-## 🛠 Tools
+## Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 
@@ -57,7 +57,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
